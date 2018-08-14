@@ -1,0 +1,9 @@
+{
+  "name": "passportjs-tut",
+  "version": "1.0.0",
+  "description": "make authentication system using passportjs",
+  "main": "index.js",
+  "repository": "https://github.com/donggyushin/passportjs.git",
+  "author": "rontend",
+  "license": "MIT"
+}
